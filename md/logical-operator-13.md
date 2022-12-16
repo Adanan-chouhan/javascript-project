@@ -5,7 +5,7 @@
 |operator|Name       |
 |--------|---        |
 |    &&  |logical and|
-|     | logical or|
+|  \|\|  | logical or|
 |   !|logical not
 > we test threse in console.log
 # 1st logical and
