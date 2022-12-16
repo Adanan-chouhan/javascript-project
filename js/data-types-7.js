@@ -1,0 +1,25 @@
+document.write("<center><h1>DATA TYPER</h1><center>");
+document.write("<hr>");
+var a = ("adnan chouhan");
+document.write(typeof a);
+document.write("<hr>");
+var b = (20);
+document.write(typeof b);
+document.write("<hr>");
+var c = (10);
+var d = (20);
+var e = e > d
+document.write(typeof e);
+document.write("<hr>");
+var f = ["html","css","js"];
+document.write(typeof f);
+document.write("<hr>");
+var g = {name:"adnan chouhan"};
+document.write(typeof g);
+document.write("<hr>");
+var h = (null);
+document.write(typeof h);
+document.write("<hr>");
+var i;
+document.write(typeof i);
+document.write("<hr>");

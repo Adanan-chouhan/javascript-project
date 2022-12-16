@@ -1,0 +1,11 @@
+document.write("<center><h1>CONDITION TERNARY OPERATOR<h1><center>");
+document.write("<hr>");
+var a = 15;
+var b;
+(a > 10) ? b = "true" : b="false";
+document.write(b);
+document.write("<br>");
+var a = 15;
+var b;
+(a > 50) ? b = "true" : b="false";
+document.write(b);
