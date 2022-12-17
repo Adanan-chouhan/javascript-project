@@ -47,3 +47,5 @@
 ---
 [25-events](./md/events-25.md)
 ---
+[26-while-loop](./md/26-while-loop.md)
+---
