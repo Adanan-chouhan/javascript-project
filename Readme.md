@@ -49,3 +49,8 @@
 ---
 [26-while-loop](./md/26-while-loop.md)
 ---
+[27-do-while-loop](./md/27-do-while-loop.md)
+---
+[28-for-loop](./md/28-for-loop.md)
+---
+[29-continue-or-break-statement](./md/29-break-and-continue.md)
