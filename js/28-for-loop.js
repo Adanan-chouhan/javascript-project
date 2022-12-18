@@ -3,4 +3,4 @@ document.write("<br>");
 for(var a = 1; a <= 10; a++){
     document.write("this is javascript");
     document.write("<br>");
-}
+};
