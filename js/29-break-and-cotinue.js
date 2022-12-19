@@ -19,4 +19,4 @@ for(var a = 1; a <= 10; a++){
         break;
     }
     document.write("number:"+a+"<br>");
-}
+};
