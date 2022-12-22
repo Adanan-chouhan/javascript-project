@@ -1,7 +1,7 @@
 # [MD OF JS]
 
 
-[3-html-tags-in-javascript](./md/html-tags-3.md)
+[3-Html-tags-in-javascript](./md/html-tags-3.md)
 ---
 [4-comment-tags-in-javascript](./md/comments-4.md)
 ---
