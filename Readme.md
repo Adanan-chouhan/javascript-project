@@ -1,7 +1,7 @@
 # [MD OF JS]
 
 
-[3-Html-tags-in-javascript](./md/html-tags-3.md)
+[3-html-tags-in-javascript](./md/html-tags-3.md)
 ---
 [4-comment-tags-in-javascript](./md/comments-4.md)
 ---
@@ -56,9 +56,8 @@
 [29-continue-or-break-statement](./md/29-break-and-continue.md)
 ---
 [30-even-or-odd-numbers-with-loops](./md/30-even-odd-numbers-with-loops.md)
-
-
-
-
-
-
+---
+[31-nesed-loop](./md/31-nested-loop.md)
+---
+[32-nested-loop-II](./md/32-nested-loop-II.md)
+---
