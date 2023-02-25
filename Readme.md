@@ -67,4 +67,5 @@
 ---
 [35-multidimantional-arrays](./md/35-multidimantional-arrays.md)
 ---
+[36-modify-and-delete-arrays](./md/36-modify-and-delete-arrays.md)
 ---
