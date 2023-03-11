@@ -70,7 +70,7 @@
 [36-modify-and-delete-arrays](./md/36-modify-and-delete-arrays.md)
 ---
 [37-sort-and-reverse-array-method](./md/37-sort-and-reverse-array-method.md)
----
+
 
 
 
