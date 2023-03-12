@@ -73,3 +73,7 @@
 ---
 [38-pop-and-push-method](./md/38-pop-and-push-method.md)
 ---
+[39-shift-and-unshift-method](./md/39-shift-and-unshift-method.md)
+---
+[40-concat-and-join-array-method](./md/40-concat-and-join-array-method.md)
+---
