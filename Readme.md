@@ -71,9 +71,5 @@
 ---
 [37-sort-and-reverse-array-method](./md/37-sort-and-reverse-array-method.md)
 ---
-
-
-
-
-
-
+[38-pop-and-push-method](./md/38-pop-and-push-method.md)
+---
