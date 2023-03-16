@@ -77,4 +77,5 @@
 ---
 [40-concat-and-join-array-method](./md/40-concat-and-join-array-method.md)
 ---
-
+[41-slice-and-splice-array-method](./md/41-slice-and-splice-array-method.md)
+---
