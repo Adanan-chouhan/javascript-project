@@ -81,3 +81,5 @@
 ---
 [42-is-array-method](./md/42-is-array-method.md)
 ---
+[43-indexof-and-lastindexof-array-method](./md/43-indexof-and-lastindexof-array-method.md)
+---
