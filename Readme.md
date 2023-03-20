@@ -83,3 +83,5 @@
 ---
 [43-indexof-and-lastindexof-array-method](./md/43-indexof-and-lastindexof-array-method.md)
 ---
+[44-includes-array-method](./md/44-includes-array-method.md)
+---
