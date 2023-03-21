@@ -85,3 +85,5 @@
 ---
 [44-includes-array-method](./md/44-includes-array-method.md)
 ---
+[45-some-and-every-array-method](./md/45-some-and-every-array-method.md)
+---
