@@ -87,3 +87,5 @@
 ---
 [45-some-and-every-array-method](./md/45-some-and-every-array-method.md)
 ---
+[46-find-and-findindex-array-method](./md/46-find-and-findindex-array-method.md)
+---
