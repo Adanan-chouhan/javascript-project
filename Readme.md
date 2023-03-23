@@ -89,3 +89,5 @@
 ---
 [46-find-and-findindex-array-method](./md/46-find-and-findindex-array-method.md)
 ---
+[47-filter-array-method](./md/47-filter-array-method.md)
+---
