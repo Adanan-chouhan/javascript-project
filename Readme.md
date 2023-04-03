@@ -93,13 +93,5 @@
 ---
 [48-tostring-and-valuof-and-fill-array-method](./md/48-tostring-and-valuof-and-fill-array-method.md)
 ---
-
-
-
-
-
-
-
-
-
-
+[49-forEach-loop-array-method](./md/49-forEach-loop-array-method.md)
+---
