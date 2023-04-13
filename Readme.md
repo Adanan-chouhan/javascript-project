@@ -7,7 +7,7 @@
 ---
 [5-variables-in-javascript](./md/variables-5.md)
 ---
-[6-variables-let,const](./md/variables-let%2Cconst-6.md)
+[6-variables-let,const](./md/variables-ljavascript-projectet%2Cconst-6.md)
 ---
 [7-data-types](./md/data-types-7.md)
 ---
@@ -97,7 +97,7 @@
 ---
 [50-object-toutorial](./md/50-object-toutorial.md)
 ---
----
+
 
 
 
