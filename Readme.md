@@ -99,4 +99,5 @@
 ---
 [51-object-toutorial-II](./md/51-object-toutorial-II.md)
 ---
-
+[52-Array-of-object](./md/52-Array-of-object.md)
+---
