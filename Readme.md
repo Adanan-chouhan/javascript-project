@@ -111,5 +111,7 @@
 ---
 [56-string-methods](./md/56-string-methods.md)
 ---
+[57-string-methods-II](./md/57-string-methods-II.md)
+---
 
 
