@@ -3,16 +3,16 @@
 > table of data types
 
 
-|        data           |          types         |
+ese|        data           |          types         |
 |    ----------         |        ---------       |
 |        "hlw"          |          string         |
 |         20            |          number         |
 |     true or fals      |         boolean         |
-|    ["html","css",""js |          arrey          |
+|    ["html","css",""js] |          arrey          |
 |{first:"adnan",last:""chouhan}|object|
 |null|null|
 |var x;|undifined|
->we use these tags for known about there types if u want to find these types then pattern to find
+>we use these tags for known about there types if u want to find th types then pattern to find
 ```javascript
 var a = ("adnan chouhan");
 document.write(typeof a);
