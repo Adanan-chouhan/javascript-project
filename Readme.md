@@ -115,3 +115,5 @@
 ---
 [58-Number-methods](./md/58-Number-methods.md)
 ---
+[59-Math-Methods](./md/59-Math-Methods.md)
+---
