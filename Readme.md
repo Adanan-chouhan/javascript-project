@@ -117,4 +117,5 @@
 ---
 [59-Math-Methods](./md/59-Math-Methods.md)
 ---
-
+[60-Date-Methods](./md/60-Date-Methods.md)
+---
