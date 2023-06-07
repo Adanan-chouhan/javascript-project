@@ -121,4 +121,5 @@
 ---
 [61-DOM-introduction](./md/61-DOM-introduction.md)
 ---
-
+[62-Dom-Targeting-Methods](./md/62-Dom-Targeting-Methods.md)
+---
