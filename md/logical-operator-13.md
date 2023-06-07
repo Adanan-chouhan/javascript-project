@@ -15,6 +15,21 @@ if(a >=10 && a <=25){
     console.log("this is usable")
 }
 ```
+>if we want 2 or more value to run in one condition then use logicla operator in other we have to true the usable value if they are true then they work but if we use logical operator then they are not important for our condition there are three types of logical operator
+
+|operator|Name       |
+|--------|---        |
+|    &&  |logical and|
+|  \|\|  | logical or|
+|   !|logical not
+> we test threse in console.log
+# 1st logical and
+```javascript
+var a = 20;
+if(a >=10 && a <=25){
+    console.log("this is usable")
+}
+```
 >in logical and operater we want all the values true if there are one false and 1 true then logical opertor not works
 ---
 # 2nd logical or
