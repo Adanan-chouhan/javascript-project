@@ -123,3 +123,5 @@
 ---
 [62-Dom-Targeting-Methods](./md/62-Dom-Targeting-Methods.md)
 ---
+[63-DOM-Get-and-Set-value-Method](./md/63-DOM-Get-and-Set-value-Method.md)
+---
