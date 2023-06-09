@@ -125,3 +125,5 @@
 ---
 [63-DOM-Get-and-Set-value-Method](./md/63-DOM-Get-and-Set-value-Method.md)
 ---
+[64-quaryselector-and-quaryselectorall-method](./md/64-quaryselector-and-quaryselectorall-method.md)
+--- 
