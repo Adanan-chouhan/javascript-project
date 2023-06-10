@@ -127,3 +127,5 @@
 ---
 [64-quaryselector-and-quaryselectorall-method](./md/64-quaryselector-and-quaryselectorall-method.md)
 --- 
+[65-DOM-CSS-styleing-method](./md/65-DOM-CSS-styleing-method.md)
+---
