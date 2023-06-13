@@ -131,3 +131,5 @@
 ---
 [66-addEventListner-method](./md/66-addEventListner-method.md)
 ---
+[67-classLIST-method](./md/67-classLIST-method.md)
+---
