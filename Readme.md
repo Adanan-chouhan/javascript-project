@@ -135,3 +135,5 @@
 ---
 [68-parentElement-and-parentNode-method](./md/68-parentElement-and-parentNode-method.md)
 ---
+[69-children-and-childNode-method](./md/69-children-and-childNode-method.md)
+---
