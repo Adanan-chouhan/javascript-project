@@ -137,3 +137,5 @@
 ---
 [69-children-and-childNode-method](./md/69-children-and-childNode-method.md)
 ---
+[70-firstChild-and-lastChild-methods](./md/70-firstChild-and-lastChild-methods.md)
+---
