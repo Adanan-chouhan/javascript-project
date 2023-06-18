@@ -139,3 +139,6 @@
 ---
 [70-firstChild-and-lastChild-methods](./md/70-firstChild-and-lastChild-methods.md)
 ---
+[71-previusSibling-and-nextSiblings-method](./md/71-previusSibling-and-nextSiblings-method.md)
+---
+
