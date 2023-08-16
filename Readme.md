@@ -141,6 +141,7 @@
 ---
 [71-previusSibling-and-nextSiblings-method](./md/71-previusSibling-and-nextSiblings-method.md)
 ---
+---
 [72-creatElement-and-createTextNode-method](./md/72-creatElement-and-createTextNode-method.md)
 ---
 [73-appendChild-and-insertBefore-method](./md/73-appendChild-and-insertBefore-method.md)
