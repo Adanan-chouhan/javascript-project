@@ -151,3 +151,5 @@
 ---
 [76-cloneNode-method](./md/76-cloneNode-method.md)
 ---
+[77-contains-method.md](./md/77-contains-method.md)
+---
