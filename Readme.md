@@ -151,6 +151,9 @@
 ---
 [76-cloneNode-method](./md/76-cloneNode-method.md)
 ---
-[77-contains-method.md](./md/77-contains-method.md)
+[77-contains-method](./md/77-contains-method.md)
 ---
-
+[78-hasAttribute-and-hasChildNodes-metho](./md/78-hasAttribute-and-hasChildNodes-method.md)
+---
+[79-isEqualNode-method](./md/79-isEqualNode-method.md)
+---
